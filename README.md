@@ -1,8 +1,8 @@
 # AI for chest X-ray read
 
 **Developer Names:**  
-Allison Cook  
 Ibrahim Issa  
+Allison Cook  
 Mohaansh Pranjal  
 Nathaniel Hu  
 Tushar Aggarwal
